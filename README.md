@@ -1,2 +1,1 @@
-# matlabgyak
-matlab lmao
+# Matlab gyakorlati feladatok
